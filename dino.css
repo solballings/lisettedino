@@ -1,0 +1,18 @@
+body {
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+}
+
+#board {
+    background-color: lightblue;
+    border-bottom: 1px solid black;
+    display: block;
+    margin: 0 auto;
+}
+
+#startScreen {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
